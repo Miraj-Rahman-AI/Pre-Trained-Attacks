@@ -582,9 +582,6 @@ These limitations should be resolved progressively as the framework develops.
 ---
 
 <p align="center">
-
-**Pre-Trained Attacks**
-
-*Investigating Backdoor Vulnerabilities in Pre-Trained Visual Encoders*
-
+  <strong>Pre-Trained Attacks</strong><br>
+  <em>Investigating Backdoor Vulnerabilities in Pre-Trained Visual Encoders</em>
 </p>
