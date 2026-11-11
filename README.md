@@ -12,6 +12,10 @@
 </p>
 
 ---
+> [!CAUTION] 
+> $\color{red}{\textsf{\textbf{⚠ Warning: Harmful or offensive content may be present for research and educational purposes only.}}}$
+---
+
 
 ## 1. Overview
 
@@ -565,20 +569,6 @@ This repository is a research prototype. The following limitations should be con
 8. A complete end-to-end reproduction should be validated before reporting experimental results.
 
 These limitations should be resolved progressively as the framework develops.
-
-## 13. Research Ethics and Responsible Use
-
-This repository is intended for academic research, controlled experimentation, and the study of machine learning security. The implementation should be used to:
-
-- Understand backdoor vulnerabilities in pre-trained encoders.
-- Evaluate model supply-chain risks.
-- Investigate downstream transferability.
-- Develop reproducible security experiments.
-- Support research into trustworthy machine learning.
-
-Experiments should be conducted only with datasets, models, and computing environments that the researcher is authorized to use.
-
-Do not distribute compromised checkpoints as trustworthy production models or deploy backdoor attacks against systems without authorization.
 
 
 
